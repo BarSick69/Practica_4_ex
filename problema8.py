@@ -13,4 +13,4 @@ x=int(input("Dati latura 1: "))
 y=int(input("Dati latura 2: "))
 z=int(input("Dati latura 3: "))
 
-(mediana(x,y,z))
+mediana(x,y,z)
